@@ -1,0 +1,12 @@
+{
+    "Bases": {
+        "Kitavali": {
+            "Variation 1": {
+                "Hash": "0x1B1B1B1B",
+                "Name": "Kitavali",
+                "Tolerance": 0.1,
+                "Weight": 0.1
+            }
+        }
+    }
+}
