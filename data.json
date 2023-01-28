@@ -1,4 +1,7 @@
 {
+    "Global Tweakables": {
+        "Glide Speed": 0.1
+    },
     "Bases": {
         "Kitavali": {
             "Original": {
