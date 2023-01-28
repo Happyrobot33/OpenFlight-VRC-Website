@@ -1,9 +1,29 @@
 {
     "Bases": {
         "Kitavali": {
-            "Variation 1": {
-                "Hash": "0x1B1B1B1B",
+            "Original": {
                 "Name": "Kitavali",
+                "Creator": "Rai Kitamatsu",
+                "Introducer": "Happyrobot33",
+                "Hash": "0x1B1B1B1B",
+                "Tolerance": 0.1,
+                "Weight": 0.1
+            }
+        },
+        "Swaria": {
+            "Original": {
+                "Name": "Swaria",
+                "Creator": "???",
+                "Introducer": "Happyrobot33",
+                "Hash": "0x1B1B1B1B",
+                "Tolerance": 0.1,
+                "Weight": 0.1
+            },
+            "Full Body Tweak": {
+                "Name": "Swaria",
+                "Creator": "???",
+                "Introducer": "Happyrobot33",
+                "Hash": "0x1B1B1B1B",
                 "Tolerance": 0.1,
                 "Weight": 0.1
             }
