@@ -1,14 +1,19 @@
 {
     "JSON Version": "1.0.0",
     "JSON Date": "2023-01-30",
+    "Active Description": "This is a description that can be used to overwrite the one on the control panel.",
     "Global Tweakables": {
-        "Glide Speed": 0.1
+        "Glide Speed": 0.1,
+        "Non Detection Defaults": {
+            "Weight": 0.1
+        }
     },
     "Bases": {
         "Kitavali": {
             "Original": {
                 "Name": "Kitavali",
                 "Creator": "Rai Kitamatsu",
+                "Information URL": "https://example.com",
                 "Introducer": "Happyrobot33",
                 "Hash": "0x1B1B1B1B",
                 "Tolerance": 0.1,
@@ -19,6 +24,7 @@
             "Original": {
                 "Name": "Swaria",
                 "Creator": "???",
+                "Information URL": "https://example.com",
                 "Introducer": "Happyrobot33",
                 "Hash": "0x1B1B1B1B",
                 "Tolerance": 0.1,
@@ -27,6 +33,7 @@
             "Full Body Tweak": {
                 "Name": "Swaria",
                 "Creator": "???",
+                "Information URL": "https://example.com",
                 "Introducer": "Happyrobot33",
                 "Hash": "0x1B1B1B1B",
                 "Tolerance": 0.1,
